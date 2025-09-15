@@ -1,4 +1,4 @@
-🕌 Prayer Times Scraper (Python + Selenium)
+h2 🕌 Prayer Times Scraper (Python + Selenium)
 
 A Python automation tool that retrieves daily Islamic prayer times for any Egyptian governorate using Selenium WebDriver. The script automates browser navigation, scrapes prayer schedules from timesprayer.com
 , and saves them to a local file for easy access.
